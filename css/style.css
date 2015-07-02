@@ -1,0 +1,8 @@
+body {
+	background-image: url("../images/balloons.png");
+	background-repeat: repeat-x;
+	background-color: #fcf6ff;
+	font-family: 'Unkempt', cursive;
+	color: #BB7BFF;
+	text-align: center;
+}
