@@ -6,3 +6,7 @@ body {
 	color: #BB7BFF;
 	text-align: center;
 }
+
+.title {
+	text-decoration: underline;
+}
